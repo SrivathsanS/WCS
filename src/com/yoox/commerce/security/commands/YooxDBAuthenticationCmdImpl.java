@@ -23,7 +23,7 @@ implements DBAuthenticationCmd
             public void performExecute()
                 throws ECException
             {
-            	System.err.println("\n CUSTOM Project Memeber Logic Execution Started");            	
+            	System.err.println("\n CUSTOM Project Memeber Logic Execution Startedssss");            	
             	super.performExecute();
             	
             	
